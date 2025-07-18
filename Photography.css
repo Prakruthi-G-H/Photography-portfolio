@@ -1,0 +1,149 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(images/IMG_20230611_203325.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 60px 20px;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+}
+
+#h2{
+   font-size: 100px;
+}
+
+#p{
+    font-size: 30px;
+}
+ 
+#h22{
+    font-size: 28px;
+ }
+
+ #p1{
+    font-size: 30px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#Photo8
+{
+    height: 53vh;
+}
+
+
+
+#Photo14
+{
+    height: 30vh;
+}
+
+#Photo16
+{
+    height: 30vh;
+}
+
+
+
+.gallery-item {
+    flex: 1 1 calc(25% - 10px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.gallery-item img {
+    width: 100%;
+    display: block;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin: 10px 0 5px;
+}
+
+form input, form textarea, form button {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#submit{
+    background: #545454;
+    border-style: none;
+    color: rgb(255, 255, 255);
+}
+
+#submit:hover{
+    background: #8a8989;
+    border-style: none;
+    color: black;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p {
+    margin: 0;
+}
