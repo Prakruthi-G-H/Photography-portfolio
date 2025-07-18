@@ -14,12 +14,29 @@ A personal photography portfolio website showcasing my best captured moments wit
 
 - **HTML5**  
 - **CSS3**  
+## 📁 Project Structure
 
-### 📁 Folder Structure
+- `/images` → Contains all portfolio images  
+- `Photography.html` → Main HTML file 
+- `Photography.css` → Main stylesheet 
+- `README.md` → Project documentation
 
-Photography-portfolio/
-│
-├── images/ # All portfolio images
-├── Photography.css # Main stylesheet
-├── index.html # Main HTML file
-└── README.md # Project overview
+---
+
+## 🚀 How to Run
+
+1. Download or clone the repository:  
+   `git clone https://github.com/Prakruthi-G-H/Photography-portfolio.git`
+
+2. Open the folder in any browser or use Live Server in VS Code  
+3. Open `Photography.html` to view the homepage  
+4. No backend or server setup required
+
+---
+
+## 👩‍💻 Developed by
+
+**Prakruthi G H**  
+📍 Bangalore, India  
+📧 prakruthigh28@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)
