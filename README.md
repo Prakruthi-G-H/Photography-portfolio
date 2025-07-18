@@ -15,12 +15,5 @@ A personal photography portfolio website showcasing my best captured moments wit
 - **HTML5**  
 - **CSS3**  
 
-## 📁 Folder Structure
 
-Photography-portfolio/
-│
-├── images/              # All portfolio images
-├── Photography.css      # Main stylesheet
-├── index.html           # Main HTML file
-└── README.md            # Project overview
-
+<pre> ### 📁 Folder Structure <code> Photography-portfolio/ │ ├── images/ # All portfolio images ├── Photography.css # Main stylesheet ├── index.html # Main HTML file └── README.md # Project overview </code> </pre>
