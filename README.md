@@ -19,7 +19,8 @@ A personal photography portfolio website showcasing my best captured moments wit
 
 Photography-portfolio/
 │
-├── images/ # All portfolio images
-├── Photography.css # Main stylesheet
-├── index.html # Main HTML file
-└── README.md # Project overview
+├── images/              # All portfolio images
+├── Photography.css      # Main stylesheet
+├── index.html           # Main HTML file
+└── README.md            # Project overview
+
