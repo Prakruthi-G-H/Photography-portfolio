@@ -34,6 +34,7 @@ A personal photography portfolio website showcasing my best captured moments wit
 
 ---
 
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
