@@ -18,10 +18,13 @@ A responsive photography portfolio website built using **HTML5** and **CSS3** to
   
 ## 📁 Project Structure
 
-- `/images` → Contains all portfolio images  
-- `index.html` → Main HTML file 
-- `Photography.css` → Main stylesheet 
-- `README.md` → Project documentation
+```
+Photography-Portfolio/
+│── images/
+│── index.html
+│── Photography.css
+└── README.md
+```
 
 ## 🚀 How to Run
 
