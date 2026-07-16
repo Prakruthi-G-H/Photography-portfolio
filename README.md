@@ -41,6 +41,7 @@ git clone https://github.com/Prakruthi-G-H/photography-portfolio.git
 - Add category filters (Nature, Portraits, Travel, etc.)
 - Add smooth animations using JavaScript
 - Integrate backend support (Java + MySQL) for storing contact form data
+- Add dark mode support
 
   
 ## 👩‍💻 Developed By
