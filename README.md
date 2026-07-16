@@ -44,7 +44,7 @@ git clone https://github.com/Prakruthi-G-H/photography-portfolio.git
 - Add dark mode support
 
   
-## 👩‍💻 Developed By
+## 👩‍💻 Author
 
 **Prakruthi G H**  
 📍 Bangalore, India  
