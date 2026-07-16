@@ -1,6 +1,7 @@
 # 📸 Photography Portfolio
 
-A personal photography portfolio website designed to showcase my best captured moments with a clean, responsive, and visually appealing UI, built using HTML and CSS.
+A responsive photography portfolio website built using **HTML5** and **CSS3** to showcase photographs in a clean, elegant, and user-friendly interface. The project demonstrates responsive web design principles and an organized image gallery layout.
+
 
 ## 🌟 Features
 
