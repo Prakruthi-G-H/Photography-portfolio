@@ -7,7 +7,7 @@ A responsive photography portfolio website built using **HTML5** and **CSS3** to
 
 - 🏠 Home section with an attractive background image
 - 🖼️ **Portfolio Gallery** – Image grid layout to display photographs neatly
-- 🙋‍♀️ **About Me** – Short intro and purpose
+- 🙋‍♀️ About Me section
 - 📬 Contact form with Name, Email, and Message fields
 
 
